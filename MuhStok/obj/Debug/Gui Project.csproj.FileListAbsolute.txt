@@ -1,0 +1,66 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\Gui Project.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\Gui Project.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\Gui Project.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\FontAwesome.Sharp.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui Project.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui Project.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui Project.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui Project.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form2.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form3.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form4.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form5.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form6.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form7.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Notification.Notification.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\Ses.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\WinFormAnimation.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\Ses.pdb
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Gui Project.exe.config
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Gui Project.exe
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Gui Project.pdb
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Ses.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\WinFormAnimation.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Ses.pdb
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui Project.csprojAssemblyReference.cache
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Form1.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form2.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form3.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form4.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Notification.Notification.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Properties.Resources.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui Project.csproj.GenerateResource.cache
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui Project.csproj.CoreCompileInputs.cache
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui Project.csproj.CopyComplete
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui Project.exe
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui Project.pdb
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\TelerikCommon.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.xml
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Login.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui Project.exe.licenses
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.RadDiagram.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.Scheduler.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.SpellChecker.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.SpellChecker.xml
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Ayarlar.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\bin\Debug\XanderUI.dll
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Developer.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Stok.resources
+C:\Users\Cyanid\Desktop\Gui Project\Gui Project\obj\Debug\Gui_Project.Licence.resources

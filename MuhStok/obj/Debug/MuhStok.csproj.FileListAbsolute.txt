@@ -1,0 +1,69 @@
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\MuhStok.exe.config
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\MuhStok.exe
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\MuhStok.pdb
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Ses.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\WinFormAnimation.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\XanderUI.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Ses.pdb
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.SpellChecker.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Form1.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Forms.Developer.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Forms.Form2.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Forms.Form3.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Forms.Form4.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Forms.Ayarlar.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Forms.Stok.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Licence.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Login.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Notification.Notification.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.Properties.Resources.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.csproj.GenerateResource.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.exe.licenses
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.csproj.CoreCompileInputs.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.csproj.CopyComplete
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.exe
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Gui Project\obj\Debug\MuhStok.pdb
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\MuhStok.exe.config
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\MuhStok.exe
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\MuhStok.pdb
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Ses.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\WinFormAnimation.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\XanderUI.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Ses.pdb
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Telerik.WinControls.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Telerik.WinControls.SpellChecker.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.csproj.AssemblyReference.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Form1.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Forms.Developer.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Forms.Form2.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Forms.Form3.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Forms.Form4.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Forms.Ayarlar.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Forms.Stok.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Licence.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Login.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Notification.Notification.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.Properties.Resources.resources
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.csproj.GenerateResource.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.exe.licenses
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.csproj.CoreCompileInputs.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.csproj.CopyComplete
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.exe
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\MuhStok\obj\Debug\MuhStok.pdb

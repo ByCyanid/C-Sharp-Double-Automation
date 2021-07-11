@@ -1,0 +1,16 @@
+C:\Users\lenovo\documents\visual studio 2015\Projects\Gui Project\Ses\bin\Debug\Ses.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\Gui Project\Ses\bin\Debug\Ses.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\Gui Project\Ses\obj\Debug\Ses.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\Gui Project\Ses\obj\Debug\Ses.pdb
+C:\Users\Cyanid\Desktop\Gui Project\Ses\bin\Debug\Ses.dll
+C:\Users\Cyanid\Desktop\Gui Project\Ses\bin\Debug\Ses.pdb
+C:\Users\Cyanid\Desktop\Gui Project\Ses\obj\Debug\Ses.csprojAssemblyReference.cache
+C:\Users\Cyanid\Desktop\Gui Project\Ses\obj\Debug\Ses.csproj.CoreCompileInputs.cache
+C:\Users\Cyanid\Desktop\Gui Project\Ses\obj\Debug\Ses.dll
+C:\Users\Cyanid\Desktop\Gui Project\Ses\obj\Debug\Ses.pdb
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Ses\bin\Debug\Ses.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Ses\bin\Debug\Ses.pdb
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Ses\obj\Debug\Ses.csproj.AssemblyReference.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Ses\obj\Debug\Ses.csproj.CoreCompileInputs.cache
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Ses\obj\Debug\Ses.dll
+C:\Users\ByCyanid\Desktop\C# Projeler\Gui Project\Ses\obj\Debug\Ses.pdb
