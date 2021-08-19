@@ -66,7 +66,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::MuhStok.Properties.Resources.clos1e;
-            this.pictureBox2.Location = new System.Drawing.Point(322, 26);
+            this.pictureBox2.Location = new System.Drawing.Point(320, 28);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(32, 32);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;

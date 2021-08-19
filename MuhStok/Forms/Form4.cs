@@ -31,7 +31,7 @@ namespace MuhStok.Forms
             }
             else
             {
-                string vtyolu = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=muhasebe.accdb;Persist Security Info=True";
+                string vtyolu = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=muhasebe.accdb;Persist Security Info=True;Jet OLEDB:Database Password=cyanid38";
                 OleDbConnection baglanti = new OleDbConnection(vtyolu);
                 baglanti.Open();
                 string ekle = "insert into islemturleri(islemturu) values (@islemturu)";
