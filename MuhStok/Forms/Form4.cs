@@ -75,7 +75,7 @@ namespace MuhStok.Forms
             aktaronay = MessageBox.Show("Silmek istediğinizden emin misiniz? \n\nDikkat: Geri dönüşümü yoktur...", "Uyarı", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
             if (aktaronay == DialogResult.Yes)
             {
-                string vtyolu = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=muhasebe.accdb;Persist Security Info=True";
+                string vtyolu = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=muhasebe.accdb;Persist Security Info=True;Jet OLEDB:Database Password=cyanid38";
                 OleDbConnection baglanti = new OleDbConnection(vtyolu);
                 baglanti.Open();
                 string ekle = "DELETE FROM islemturleri WHERE Kimlik = " + dataGridView1.CurrentRow.Cells["Kimlik"].Value + "";
